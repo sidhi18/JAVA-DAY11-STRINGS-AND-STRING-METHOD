@@ -4,15 +4,15 @@ These are created as part of my *Day 11* in my full stack developer journey.
 
 --
 ## Topics Covered :U+1F4DA:
-:U+2705: User input Scanner
-:U+2705: String comparision (Case sensitive & case-insensitive)
-:U+2705: If-else conditional statement (to check the condtion )
-:U+2705: Checking prefixes 
-:U+2705: Substring handeling 
+* User input Scanner
+*  String comparision (Case sensitive & case-insensitive)
+* If-else conditional statement (to check the condtion )
+* Checking prefixes 
+* Substring handeling 
 
 --
-##:U+1F4C1: Day_11 & Day_11_String
-* If-else = checks for the condition to be either **true** or **false** 
+## Day_11 & Day_11_String
+:* If-else = checks for the condition to be either **true** or **false** 
 * .startswith() / .endswith() = Checks for specific starting and ending value.
 * .substring() = extracts part of a string
 * .equalsIgnoreCase() = checks wheather the string is equal or not (case-insensitive)
@@ -23,7 +23,7 @@ These are created as part of my *Day 11* in my full stack developer journey.
   -Returns negative number if string1 < string2
   -Returns 0 if string1==string2
 
-:U+F14CC: **Sample Output**
+ **Sample Output **
 Enter a string1 : Hello Java
 To check if the word occurs at start or end 
 Enter the word : Hello
@@ -32,7 +32,7 @@ Enter the index of word to extract :
 First Index Number : 1
 Second Index Number : 5
 ello
---
+
 Enter string 1 : Hello Java 
 Enter string 2 : hello java
 True
