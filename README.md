@@ -26,6 +26,7 @@ These are created as part of my *Day 11* in my full stack developer journey.
  **Sample Output **
  --
 Enter a string1 : Hello Java
+--
 To check if the word occurs at start or end 
 Enter the word : Hello
 This word appears at the start
